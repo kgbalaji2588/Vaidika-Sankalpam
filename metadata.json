@@ -1,0 +1,6 @@
+{
+  "name": "Vaidika Sankalpam / வைதிக ஸங்கல்பம்",
+  "description": "Generate verified, authentic Sankalpam texts in Tamil and multiple regional scripts for annual Avani Avittam and Gayatri Japam rituals under Vadakalai tradition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
